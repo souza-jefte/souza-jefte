@@ -1,5 +1,4 @@
-### Olá pessoal me chamo Jefte  👋
-#### Gostaria  de falar um pouco mais de mim para voçês me conhecerem um pouco melhor! :blush:
+### Olá pessoal me chamo Jefte  👋 :blush:
 
 <!--
 **souza-jefte/souza-jefte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
