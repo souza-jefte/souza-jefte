@@ -1,13 +1,13 @@
 
 <img align="right" width="400" height="400" src="https://img-s-msn-com.akamaized.net/tenant/amp/entityid/BBOdIVC.img?h=552&w=750&m=6&q=60&u=t&o=f&l=f">
  
-# Ola dev !
+# Ola  desenvolvedor!
  
 ## Meu nome é Jefté ! 
  
-Sou formado em licenciatura em informática pela IFRN campus Ipanguaçu :man:
+:first_quarter_moon:  Sou formado em licenciatura em informática pela IFRN campus Ipanguaçu :man:
 
-Atualmente estou desenvolvendo projetos  com: HTML5, CSS3 e javascript;
+:first_quarter_moon:  Atualmente estou desenvolvendo projetos  com: HTML5, CSS3 e javascript;
  
  
 ## Ta afim de conversar comigo ?
